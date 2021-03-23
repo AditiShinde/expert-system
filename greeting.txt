@@ -1,2 +1,6 @@
 Good afternoon
+I am learning Git
 It is intresting
+
+
+
